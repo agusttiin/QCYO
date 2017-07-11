@@ -1,0 +1,44 @@
+body{
+	background:#E1E8E5;
+}
+h1{
+	color:#A8BDFF;
+    font-size:18;
+	
+}
+h2{
+	font-size:32;
+	font-family:consolas;
+}
+h3{
+ color:#E8856D;
+}
+ul{
+
+	margin:0%;
+	list-style-type:none;
+	font-size:18;
+	font-family:consolas;
+	
+}
+ul li#informacion{
+	border-bottom:dashed;
+}
+p{
+	font-family:calibri;
+}
+.caja{
+    background:#9BFAFF;
+	margin: 5% 5% 10% 3%;
+	padding: 2%;
+    }
+#bloqueD{
+float:right;
+width:70%;
+}
+#bloqueI{
+width:15%;
+float:left;
+padding-bottom:100%;
+background:#A6FFCC;
+}
